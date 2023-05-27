@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+} 
+
+.game-details {
+    color: #5d85c4;
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding: 20px 27px;
+    display: flex;
+    justify-content: space-between;
+  }
